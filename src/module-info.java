@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ghwna
+ *
+ */
+module Kiosk {
+}
