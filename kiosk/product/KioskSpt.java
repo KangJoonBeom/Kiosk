@@ -13,9 +13,9 @@ public class KioskSpt {
 	// 자동임포트 단축키: ctrl+shift+o(영문자O)
 	
 	public static void productLoad() {
-		products.add(new Product("커피",1000));;
-		products.add(new Product("뜨아", 1500));
-		products.add(new Product("바닐라라떼", 2000));
+		products.add(new Product("아이스 아메리카노",1000));;
+		products.add(new Product("뜨거운 아메리카노", 1500));
+		products.add(new Product("바닐라 라떼", 2000));
 		bake.add(new Product("케이크", 6000));
 		bake.add(new Product("빵", 4000));
 		bake.add(new Product("마카롱", 2500));
